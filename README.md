@@ -3,6 +3,13 @@
 ## 📌 Project Overview  
 This project is my **third n8n automation workflow**, designed to streamline content creation and publishing for LinkedIn. Its main purpose is to help busy professionals stay active on LinkedIn by automatically generating posts from articles they read.  
 
+## 🗂 Workflow Diagram & Email  
+
+Here’s a visual representation of the n8n workflow & an example of the email:  
+
+![Workflow Diagram](./workflow.png)
+![Email Screenshot](mail.png)
+
 ## 🚀 How It Works  
 1. **Article Scraping**  
    - The workflow scrapes articles and extracts key ideas.  
